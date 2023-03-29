@@ -8,11 +8,9 @@
 
 미래 예측
 
-```
-
 ```mermaid
   flowchart TD;
-    A[hypothesis] --> B{experlment};
+    A[hypothesis] --> B{experment};
     B -- yes --> C[ok];
     B -- No --> D[go to hypothesis];
 ```
