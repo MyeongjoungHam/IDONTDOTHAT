@@ -11,6 +11,8 @@
 ```
 
 ```mermaid
-  flowchart TD
+   flowchart TD;
     A[hypothesis] -->B(experlment);
+    B -- yes --> C[ok];
+    B -- No --> D][not ok];
 ```
