@@ -8,8 +8,9 @@
 
 미래 예측
 
+```
 
-```merwaid
-  graph TD;
-   A-->B;
+```mermaid
+  flowchart TD
+    A[hypothesis] -->B(experlment);
 ```
