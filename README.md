@@ -9,4 +9,7 @@
 미래 예측
 
 
-----
+```merwaid
+  graph TD;
+   A-->B;
+```
